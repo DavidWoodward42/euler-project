@@ -13,4 +13,10 @@ class MultiplesOfThreeAndFiveSpec extends WordSpecLike {
       assert(MultiplesOfThreeAndFive.sumOfMultiples(10L) == "23")
     }
   }
+  "Calling .sumOfMultiples with a value of 1000" should {
+
+    "return a value of 233168" in {
+      assert(MultiplesOfThreeAndFive.sumOfMultiples(1000L) == "233168")
+    }
+  }
 }

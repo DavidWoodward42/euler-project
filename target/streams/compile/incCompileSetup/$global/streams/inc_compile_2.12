@@ -1,0 +1,110 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/david/Applications/personal-development-environment/euler/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.1
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+2 items
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> /home/david/Applications/personal-development-environment/euler/target/scala-2.12/classes/problemsOneToTen/MultiplesOfThreeAndFive$.class
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> /home/david/Applications/personal-development-environment/euler/target/scala-2.12/classes/problemsOneToTen/MultiplesOfThreeAndFive.class
+binary dependencies:
+2 items
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> /home/david/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> /usr/lib/jvm/java-8-oracle/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+2 items
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> problemsOneToTen.MultiplesOfThreeAndFive
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> problemsOneToTen.MultiplesOfThreeAndFive$
+used names:
+32 items
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> %
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> +
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> <init>
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> ==
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Any
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> AnyRef
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> B
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Boolean
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Exclusive
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Function1
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Function2
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Int
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Long
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> MultiplesOfThreeAndFive
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Nothing
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> NumericRange
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Object
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Predef
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> RichLong
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> Stream
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> String
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> filter
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> foldLeft
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> limit
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> longWrapper
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> problemsOneToTen
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> scala
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> toStream
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> toString
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> until
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> x
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> ||
+product stamps:
+2 items
+/home/david/Applications/personal-development-environment/euler/target/scala-2.12/classes/problemsOneToTen/MultiplesOfThreeAndFive$.class -> lastModified(1487752103000)
+/home/david/Applications/personal-development-environment/euler/target/scala-2.12/classes/problemsOneToTen/MultiplesOfThreeAndFive.class -> lastModified(1487752103000)
+source stamps:
+1 items
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> hash(b5d071c99cc79813ace7ae1ac11e12acf1f8a996)
+binary stamps:
+2 items
+/home/david/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> lastModified(1480936165000)
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> lastModified(1483112974000)
+class names:
+2 items
+/home/david/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar -> scala.Function2
+/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwjEWwSwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwQ+5UYnQABm5vdGlmeXNxAH4ADEHIe4R0AAR3YWl0c3EAfgAM3r9Ya3QADSRhc0luc3RhbmNlT2ZzcQB+AAyykA3CdAAGZXF1YWxzc3EAfgAMKc7TUnQADGFzSW5zdGFuY2VPZnNxAH4ADGFUZn90AAxzeW5jaHJvbml6ZWRzcQB+AAwCgN7VdAAOc3VtT2ZNdWx0aXBsZXNzcQB+AAwJi2KTdAANJGlzSW5zdGFuY2VPZnNxAH4ADIdRn8p0AAlub3RpZnlBbGxzcQB+AAyD/F8vdAAMaXNJbnN0YW5jZU9mc3EAfgAM8MvnzHQAAj09c3EAfgAMK9C7jHQAF011bHRpcGxlc09mVGhyZWVBbmRGaXZlc3EAfgAMBNB4I3QABWNsb25lc3EAfgAMD3FKE3QACHRvU3RyaW5nc3EAfgAMPfBLdXQAAiE9c3EAfgAMsrC0nHQACGdldENsYXNzc3EAfgAMrroWHnQAAm5lc3EAfgAM3ButunQAAmVxc3EAfgAM6L1d0XQAAiMjc3EAfgAMzMkfB3QACGZpbmFsaXplc3EAfgAMjXAUbXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAKHByb2JsZW1zT25lVG9UZW4uTXVsdGlwbGVzT2ZUaHJlZUFuZEZpdmV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4APAAAAABzcQB+AFl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHdzcQB+AGp0AANBbnlzcQB+AG5zcQB+AHF1cQB+AHQAAAACc3EAfgB2dAAFc2NhbGFxAH4AfXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAEHByb2JsZW1zT25lVG9UZW5zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVpk7w92dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAWS9ob21lL2RhdmlkL0FwcGxpY2F0aW9ucy9wZXJzb25hbC1kZXZlbG9wbWVudC1lbnZpcm9ubWVudC9ldWxlci90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtdBxyZzHmBOs564awR4SrPH4qZY=
+external apis:
+0 items
+source infos:
+1 items
+/home/david/Applications/personal-development-environment/euler/src/main/scala-2.12/problemsOneToTen/MultiplesOfThreeAndFive.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWmTvD3Z1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAWS9ob21lL2RhdmlkL0FwcGxpY2F0aW9ucy9wZXJzb25hbC1kZXZlbG9wbWVudC1lbnZpcm9ubWVudC9ldWxlci90YXJnZXQvc2NhbGEtMi4xMi9jbGFzc2VzdAABLw==
