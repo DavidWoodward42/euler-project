@@ -1,5 +1,0 @@
-[0m[[0minfo[0m] [0m[32mMultiplesOfThreeAndFiveSpec:[0m[0m
-[0m[[0minfo[0m] [0m[32mCalling .sumOfMultiples with a value of 10[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return a value of 23[0m[0m
-[0m[[0minfo[0m] [0m[32mCalling .sumOfMultiples with a value of 1000[0m[0m
-[0m[[0minfo[0m] [0m[32m- should return a value of 233168[0m[0m
