@@ -4,7 +4,7 @@
 		module="euler-build"
 		revision="0.1-SNAPSHOT"
 		status="integration"
-		publication="20170222091155"
+		publication="20170222154135"
 		e:sbtVersion="0.13" e:scalaVersion="2.10"
 	>
 		<description>
