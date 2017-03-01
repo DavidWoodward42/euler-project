@@ -65,10 +65,10 @@ class PrimeFactorsSpec extends WordSpecLike {
     }
   }
 
-//  "Calling .primeFactors with a value of 13195" should {
-//
-//    "return a sequence of 5, 7, 13, 29" in {
-//      assert(PrimeFactors.primeFactors(13195L) == Seq(5, 7, 13, 29))
-//    }
-//  }
+  "Calling .lastPrimeFactor with a value of 13195" should {
+
+    "return 29" in {
+      assert(PrimeFactors.lastPrimeFactor(13195L) == 29L)
+    }
+  }
 }

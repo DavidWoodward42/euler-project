@@ -17,4 +17,9 @@ object PrimeFactors {
     lazy val stream: Stream[Long]  = (1L to Math.round(Math.sqrt(num.toDouble).toLong)).toStream
     stream.filter(x => checkIfPrime(x))
   }
+
+  def lastPrimeFactor(num: Long): Long = {
+    lazy val seq = primeSeq(num)
+    seq.filter(num % _ == 0).last
+  }
 }

@@ -1,8 +1,9 @@
-import problemsOneToTen.EvenFibonachiNumbers
+import problemsOneToTen.PrimeFactors
 
 /**
   * Created by david on 23/02/17.
   */
 object Runner extends App {
-  print(EvenFibonachiNumbers.sumOfEvenFibonachi(4000000L))
+  val seq = PrimeFactors.lastPrimeFactor(600851475143L)
+  print(seq)
 }
